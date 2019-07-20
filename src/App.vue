@@ -44,6 +44,7 @@
           <v-card-text>
             <h2>DetexMotors</h2>
             <p>- an app by <a href="https://2oh8.github.io/">2oh8 on GitHub</a></p>
+            <p>Respository: <a href="https://github.com/2oh8/car-dealership-code">car-dealership-code</a></p>
             <!-- <br> -->
             <p>Features:</p>
             <ul>
